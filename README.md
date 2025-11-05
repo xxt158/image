@@ -1,0 +1,2 @@
+# image
+store typora images
